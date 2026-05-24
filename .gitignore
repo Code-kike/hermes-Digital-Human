@@ -1,0 +1,10 @@
+# CCG workflow internal state
+.ccg/
+
+# Serena IDE metadata
+.serena/cache/
+.serena/project.local.yml
+
+# Common
+.DS_Store
+Thumbs.db
