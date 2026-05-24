@@ -1,9 +1,8 @@
 # CCG workflow internal state
 .ccg/
 
-# Serena IDE metadata
-.serena/cache/
-.serena/project.local.yml
+# Serena IDE metadata (user-local tool state)
+.serena/
 
 # Common
 .DS_Store
